@@ -1,0 +1,2 @@
+bro.txt  e.txt	pokemon_compendium   sf/     tis.txt
+b.txt	 pk3/	pokemon_compendium2  sf.txt
